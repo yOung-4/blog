@@ -19,7 +19,7 @@ export default {
     language: {
       handler() {
         fetch(
-          `https://r2.blog.young-4.com/blog_data/${this.$i18n.locale}/contents.json`,
+          `https://blog-storage.young-4.com/blog_data/${this.$i18n.locale}/contents.json`,
           { method: "get" }
         )
           .then((response) => response.json())
@@ -65,7 +65,7 @@ export default {
         <q-card style="margin-left: 30%; margin-right: 10%; margin-top: 2%">
           <q-card-section class="column items-center" style="margin-top: 1%">
             <q-avatar size="15vmin">
-              <q-img src="https://r2.blog.young-4.com/profile.png" />
+              <q-img src="https://blog-storage.young-4.com/profile.png" />
             </q-avatar>
             <div class="text-center text-h6 text-bold">{{ $t("name") }}</div>
             <div>

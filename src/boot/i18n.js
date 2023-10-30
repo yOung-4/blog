@@ -4,7 +4,7 @@ import { Quasar } from "quasar";
 
 export default ({ app }) => {
   const i18n = createI18n({
-    locale: Quasar.lang.getLocale(),
+    locale: "en-US",
     messages,
   });
   app.use(i18n);

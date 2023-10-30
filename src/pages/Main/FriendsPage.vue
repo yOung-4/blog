@@ -17,14 +17,14 @@ export default {
       <div style="width: 60%; margin-left: 5%">
         <div style="float: left; width: 45%; margin-right: 2%">
           <LinkCard
-            avatar_URL="https://r2.blog.young-4.com/links/mengguyi.png"
+            avatar_URL="https://blog-storage.young-4.com/links/mengguyi.png"
             :link_name="$t('link.link_mengguyi')"
             link_URL="https://blog.mengguyi.com/"
           />
         </div>
         <div style="float: right; width: 45%">
           <LinkCard
-            avatar_URL="https://r2.blog.young-4.com/links/mtf-wiki-square.svg"
+            avatar_URL="https://blog-storage.young-4.com/links/mtf-wiki-square.svg"
             :link_name="$t('link.link_mtfwiki')"
             link_URL="https://mtf.wiki/zh-cn/"
           />

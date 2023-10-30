@@ -1,1 +1,9 @@
 // app global css in SCSS form
+
+@font-face {
+  font-family: "Noto Serif SC", serif;
+  src: url("https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300;400;700&display=swap");
+}
+text-notoserifsc {
+  font-family: "Noto Serif SC";
+}

@@ -29,11 +29,6 @@ const routes = [
         name: "blog",
         component: () => import("pages/Blog/BlogContentPage.vue"),
       },
-      {
-        path: "/survey",
-        name: "survey",
-        component: () => import("pages/Blog/FormPage.vue"),
-      },
     ],
   },
   {

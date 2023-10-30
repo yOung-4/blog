@@ -1,17 +1,17 @@
 export default {
   title: "yOung-4's Blog",
   home: "home",
-  about: "about",
+  about_: "About",
   blog: "blog",
   link_exchange: "link exchange",
   name: "yOung-4",
   index: {
     motto:
-      "Eventually, we will meet again on Betelgeuse, although it's a long journey ahead",
+      "Eventually, we will meet again on #Betelgeuse, although it's a long journey ahead",
     introduction:
       "Grade 12 student/Living in Toronto/Learning vue/osu! & Euro Truck 2 beginner/…",
   },
-  about: {
+  about_page: {
     label_survey: "Participate in the survey",
   },
   directory: {

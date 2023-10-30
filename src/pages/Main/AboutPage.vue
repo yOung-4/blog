@@ -10,12 +10,8 @@ export default {
 
 <template>
   <div>
-    <PageTitle title="about" />
-    <q-btn
-      :label="$t('about.label_survey')"
-      color="primary"
-      style="margin-left: 5%"
-      :to="{ name: 'survey' }"
+    <PageTitle :title="$t('about_')" />
+
     />
   </div>
 </template>

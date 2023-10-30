@@ -10,7 +10,7 @@ export default {
     introduction:
       "12年级就读中/现居多伦多/正在试图学习vue/osu! & Euro Truck 2萌新/…",
   },
-  about: {
+  about_page: {
     label_survey: "参与问卷调查",
   },
   directory: {

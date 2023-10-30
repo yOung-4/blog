@@ -16,7 +16,7 @@ export default {
       <q-intersection transition="jump-right">
         <div>
           <q-img
-            src="https://r2.blog.young-4.com/profile.png"
+            src="https://blog-storage.young-4.com/profile.png"
             width="50%"
             style="margin-left: 30%; margin-top: 25%"
           />

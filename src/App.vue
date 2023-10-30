@@ -1,7 +1,7 @@
 <template>
   <router-view
     style="
-      background-image: url('https://r2.blog.young-4.com/backround.png');
+      background-image: url('https://blog-storage.young-4.com/backround.png');
       background-size: cover;
     "
   />
