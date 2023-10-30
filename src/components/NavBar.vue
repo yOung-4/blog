@@ -12,6 +12,7 @@ export default {
     },
     change_language(language) {
       this.$i18n.locale = language;
+      this.$q.localStorage.set("language", language);
     },
   },
 };

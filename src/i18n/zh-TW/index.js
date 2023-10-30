@@ -18,4 +18,7 @@ export default {
     link_mengguyi: "孟古一的博客",
     link_mtfwiki: "MtF wiki",
   },
+  tab: {
+    index: "首頁｜負4價的yOung元素",
+  },
 };

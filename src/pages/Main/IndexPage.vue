@@ -7,6 +7,9 @@ export default {
       openURL(url);
     },
   },
+  mounted() {
+    document.title = this.$t("tab.index");
+  },
 };
 </script>
 

@@ -19,4 +19,7 @@ export default {
     link_mengguyi: "Meng Guyi's Blog",
     link_mtfwiki: "MtF wiki",
   },
+  tab: {
+    index: "Home｜yOung-4",
+  },
 };
