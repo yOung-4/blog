@@ -30,11 +30,6 @@ export default {
       <q-tabs shrink class="q-ml-md">
         <q-route-tab name="home" :label="$t('home')" :to="{ name: 'index' }" />
         <q-route-tab
-          name="about"
-          :label="$t('about')"
-          :to="{ name: 'about' }"
-        />
-        <q-route-tab
           name="blog"
           :label="$t('blog')"
           :to="{ name: 'directory' }"

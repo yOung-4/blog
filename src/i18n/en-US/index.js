@@ -1,7 +1,7 @@
 export default {
   title: "yOung-4's Blog",
   home: "home",
-  about_: "About",
+  about: "About",
   blog: "blog",
   link_exchange: "link exchange",
   name: "yOung-4",
@@ -10,9 +10,6 @@ export default {
       "Eventually, we will meet again on #Betelgeuse, although it's a long journey ahead",
     introduction:
       "Grade 12 student/Living in Toronto/Learning vue/osu! & Euro Truck 2 beginner/…",
-  },
-  about_page: {
-    label_survey: "Participate in the survey",
   },
   directory: {
     contents: "Contents",
